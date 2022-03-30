@@ -75,7 +75,7 @@ bash <(curl -L https://t.ly/tHxh)
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/FaGaRHqwf9PK28zoOPfigR)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/CNWRCnCe1fZ7g3Wo4M8ij4)
   <div align="center">
        
   </div>
